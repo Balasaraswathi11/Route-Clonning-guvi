@@ -13,7 +13,7 @@ const App = () => {
   const cards=[
     {
       id: 1,
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg',
+      image: 'https://lytechx.com/wp-content/uploads/2023/11/Web-Development-Company-in-India-2-1200x801.jpg',
       heading: 'Best Full-Stack Development Project Ideas in 2024',
       category: 'Fullstack',
       link:"https://www.guvi.in/blog/full-stack-development-project-ideas/"
