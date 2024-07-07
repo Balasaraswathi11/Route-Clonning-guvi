@@ -1,0 +1,109 @@
+.uldiv {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+
+ 
+}
+
+.uldiv li {
+  padding: 0px 20px; 
+  text-transform: uppercase;
+
+  color: black;
+  
+  font-size: 15px;
+  position: relative;
+  
+}
+
+
+.uldiv::before{
+  content: '';
+  
+  height: 2px;
+  background-color: rgb(227, 226, 226);
+  position: absolute;
+  top: 120px;
+}
+.uldiv li a::before{
+  content: '';
+  height: 3px;
+  width: 0;
+  background-color: #2bac5a;
+  position: absolute;
+  left: 0;
+  bottom: -30px;
+  transition: 0.3s;
+  
+}
+.uldiv li a:focus:before{
+  width: 100%;
+}
+.uldiv li a:focus{
+  color: #0DBA4B;
+}
+
+
+
+.carddiv{
+  display: flex;
+  flex-direction: row;
+
+  flex-wrap: wrap;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+
+ 
+}
+.carddivs{
+  box-shadow: 5px 5px 10px rgb(147, 144, 144);
+  border-radius: 10px;
+  margin: 10px;
+}
+.card{
+  border-radius: 10px;
+}
+.headernav{
+  box-shadow: 5px 5px 10px rgb(183, 178, 178);
+}
+.image{
+  width: 367px;
+  height: 250px;
+  overflow: hidden;
+
+}
+.fullstackdiv,.datascidiv,.cybersecdiv,.careerdiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+.headerul{
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0px;
+}
+.headerul li{
+  margin-left: 10px;
+}
+.vr{
+  margin-top: 1px;
+  margin-bottom: 0px;
+  height: 45px;
+}
+.header-input{
+  width: 300px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid rgb(163, 163, 163);
+}
