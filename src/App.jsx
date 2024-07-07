@@ -27,10 +27,10 @@ const App = () => {
     },
     {
       id: 3,
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2023/02/DBMS1.png',
-      heading: '10 Best Database Management Systems For Software Developers',
+      image: 'https://www.guvi.in/blog/wp-content/uploads/2021/09/Full-Stack-Developer-course-syllabus.png',
+      heading: 'Hot Topics That You Need To Know In Full Stack Developer Syllabus 2024',
       category: 'Fullstack',
-      link:'https://www.guvi.in/blog/database-management-systems-for-developers/'
+      link:'https://www.guvi.in/blog/full-stack-developer-syllabus/'
     },
     {
       id: 4,
