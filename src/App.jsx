@@ -27,10 +27,10 @@ const App = () => {
     },
     {
       id: 3,
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2021/09/Full-Stack-Developer-course-syllabus.png',
-      heading: 'Hot Topics That You Need To Know In Full Stack Developer Syllabus 2024',
+      image: 'https://www.coddletech.com/sites/default/files/styles/slideshow/public/2150062008_1.jpg?itok=lgq9rDX0',
+      heading: 'Top 10 Full-Stack Developer Frameworks in 2024',
       category: 'Fullstack',
-      link:'https://www.guvi.in/blog/full-stack-developer-syllabus/'
+      link:'https://www.guvi.in/blog/full-stack-developer-frameworks/'
     },
     {
       id: 4,
@@ -44,23 +44,23 @@ const App = () => {
     {
       id: 5,
       image: 'https://www.guvi.in/blog/wp-content/uploads/2023/07/Real-World-Data-Science-Examples-768x402.webp',
-      heading: 'Sixth Image',
+      heading: '12 Real-World Data Science Examples: Power Of Data Science',
       category: 'datasci',
       link:"https://www.guvi.in/blog/real-world-data-science-examples/"
     },
     {
       id: 6,
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-768x402.png',
-      heading: 'Can A Commerce Student Do Data Science?',
+      image: 'https://blog.mitsde.com/wp-content/uploads/2024/02/image-7.png',
+      heading: 'How to become a Data Scientist after Mechanical Engineering?',
       category: 'datasci',
-      link:"https://www.guvi.in/blog/can-commerce-students-do-data-science/"
+      link:"https://www.guvi.in/blog/how-to-become-data-scientist-after-mechanical-engineering/"
     },
     {
       id: 7,
-      image: 'https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-768x432.png',
-      heading: 'Cybersecurity Vs Ethical Hacking: Top 10 Differences',
+      image: 'https://media.licdn.com/dms/image/D4D12AQFiLQQcbiAKXQ/article-cover_image-shrink_600_2000/0/1691474199565?e=2147483647&v=beta&t=8mCxxgM0Sh-YejqgPJuAhTs9c4CHLFmNNEF5TXuka8I',
+      heading: 'Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?',
       category: 'cybersec',
-      link:'https://www.guvi.in/blog/difference-between-cybersecurity-and-ethical-hacking/'
+      link:'https://www.guvi.in/blog/coding-for-cybersecurity/'
     },
     {
       id: 8,
